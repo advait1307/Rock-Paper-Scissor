@@ -3,4 +3,4 @@ You will input your choice through the buttons and then it will show the compute
 <br/>
 <br/>
 <br/>
-In the screenshot the user choice scissor option and the computer chose paper. Hence the user won the game!
+In the screenshot the user choice scissor and the computer chose paper. Hence the user won the game!
